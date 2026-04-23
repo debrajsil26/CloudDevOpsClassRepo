@@ -2,6 +2,6 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World Debraj! Welcome to Java");
-        System.out.println("Welcome to the Java world for Jenkins testing");
+        System.out.println("I am testing continuous integration");
     }
 }
